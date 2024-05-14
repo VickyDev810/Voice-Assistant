@@ -88,6 +88,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-##UI
+## Glimpse of UI
+
 ![image](https://github.com/VickyDev810/Voice-Assistant/assets/142140937/9af4515b-17f5-4620-a4e8-be00f355b328)
 
