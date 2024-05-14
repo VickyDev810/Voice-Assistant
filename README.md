@@ -43,7 +43,7 @@ python -u main.py
 
 ## Usage
 
-1. # Using the Mic Button
+1. ### Using the Mic Button
  On clicking on the mic button, you will be prompted to say something on terminal then you can speak any query:
 
 i. **Searching Query**
@@ -58,7 +58,7 @@ This feature works only for a few apps that are defined in your OS path. Some ex
  open spotify works when you have spotify installed from microsoft store
  open cmd ( This command may cause errors as it will open the cmd in vs code terminal itself)
  ```
-# Note: May not work on MAC
+#### Note: May not work on MAC
 
 iii. **Play Command**
 You can use these commands to play videos on YouTube or search for them:
@@ -71,7 +71,7 @@ Opens up a video defined by user when prompted you can change it inside play_com
 play song or play a song or play something
 ```
 
-2. # Using the Search Box 
+2. ### Using the Search Box 
 You can also simply type the query in the textbox and click the search button to perform a Google search or execute a command.
 
 ## Contributing
